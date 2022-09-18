@@ -1,0 +1,3 @@
+D:\Geometric shapes\Run\obj\Debug\Run.csproj.AssemblyReference.cache
+D:\Geometric shapes\Run\obj\Debug\Run.csproj.SuggestedBindingRedirects.cache
+D:\Geometric shapes\Run\obj\Debug\Run.csproj.CoreCompileInputs.cache
