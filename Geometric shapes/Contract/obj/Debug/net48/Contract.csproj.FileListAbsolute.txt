@@ -1,5 +1,0 @@
-D:\Geometric shapes\Contract\obj\Debug\net48\Contract.csproj.AssemblyReference.cache
-D:\Geometric shapes\Contract\obj\Debug\net48\Contract.GeneratedMSBuildEditorConfig.editorconfig
-D:\Geometric shapes\Contract\obj\Debug\net48\Contract.AssemblyInfoInputs.cache
-D:\Geometric shapes\Contract\obj\Debug\net48\Contract.AssemblyInfo.cs
-D:\Geometric shapes\Contract\obj\Debug\net48\Contract.csproj.CoreCompileInputs.cache
