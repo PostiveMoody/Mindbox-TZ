@@ -1,0 +1,11 @@
+D:\Geometric shapes\Contract\bin\Debug\net6.0\Contract.deps.json
+D:\Geometric shapes\Contract\bin\Debug\net6.0\Contract.dll
+D:\Geometric shapes\Contract\bin\Debug\net6.0\ref\Contract.dll
+D:\Geometric shapes\Contract\bin\Debug\net6.0\Contract.pdb
+D:\Geometric shapes\Contract\obj\Debug\net6.0\Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geometric shapes\Contract\obj\Debug\net6.0\Contract.AssemblyInfoInputs.cache
+D:\Geometric shapes\Contract\obj\Debug\net6.0\Contract.AssemblyInfo.cs
+D:\Geometric shapes\Contract\obj\Debug\net6.0\Contract.csproj.CoreCompileInputs.cache
+D:\Geometric shapes\Contract\obj\Debug\net6.0\Contract.dll
+D:\Geometric shapes\Contract\obj\Debug\net6.0\ref\Contract.dll
+D:\Geometric shapes\Contract\obj\Debug\net6.0\Contract.pdb
